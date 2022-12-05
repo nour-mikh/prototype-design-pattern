@@ -32,7 +32,7 @@ W- Toggles on and off the ability to write\
 Note: The color Black [0, 0, 0] was reserved to function as an eraser \
 G- Allows you to change the current selected color by using a color wheel\
 C- Clears the screen and canvas \
-Q- Quits the program\
+Q- Quits the program
 
 All the panels aside from "current color" are interactive, they can be used by circling around the
 panel, swiftly hiding the detected object and then showing the object, which would
