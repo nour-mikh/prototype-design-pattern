@@ -23,20 +23,20 @@ After the downloading is done, running the exe file would launch the program and
 
 ### Program functionality
 
-I- Allows you to scroll upwards in a sorted array of predefined widths 
-K- Allows you to scroll downwards in a sorted array of predefined widths
-L- Allows you to increment the current width by 2 up to 20
-J- Allows you to decrement the current width by 2 down to 0
-W- Toggles on and off the ability to write
-{1..9}- Allows you to toggle between the different avaible colors
-Note: The color Black [0, 0, 0] was reserved to function as an eraser 
-G- Allows you to change the current selected color by using a color wheel
-C- Clears the screen and canvas
-Q- Quits the program
+I- Allows you to scroll upwards in a sorted array of predefined widths \
+K- Allows you to scroll downwards in a sorted array of predefined widths\
+L- Allows you to increment the current width by 2 up to 20\
+J- Allows you to decrement the current width by 2 down to 0\
+W- Toggles on and off the ability to write\
+{1..9}- Allows you to toggle between the different avaible colors\
+Note: The color Black [0, 0, 0] was reserved to function as an eraser \
+G- Allows you to change the current selected color by using a color wheel\
+C- Clears the screen and canvas \
+Q- Quits the program\
 
 All the panels aside from "current color" are interactive, they can be used by circling around the
 panel, swiftly hiding the detected object and then showing the object, which would
-change colors, clear all, change widths or select the eraser
+change colors, clear all, change widths or select the eraser \
 
 A circle on the top right helps vizualize the current selected width and color. However
 a current color hexagone is also avaible to showcase current colors while using small
